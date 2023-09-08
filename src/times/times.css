@@ -1,0 +1,19 @@
+.time {
+    margin-top: 20px;
+    text-align: center;
+    padding: 32px;
+}
+
+.time h3 {
+    font-size: 32px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.time .personagens {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}

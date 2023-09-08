@@ -1,0 +1,25 @@
+:root {
+    --meio-claro: #A084DC ;
+    --escuro: #645CBB;
+    --claro: #BFACE2;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.formulario form {
+    margin-top: -4.4%;
+    align-items: center;
+    background-color: #E3DFFD;
+    border-radius: 20px;
+    padding: 20px 60px;
+    box-shadow: 1px 1px 16px rgba(0, 0 ,0, 0.09);
+}
+
+.campoParagrafo {
+    color: #000;
+    margin-top: 4px;
+}
